@@ -1,10 +1,11 @@
-## 👋 Bem-vindo(a) ao meu perfil, meu nome é Neidielli, sou estudante de Eng. de Software.
+## 👋 Seja bem-vindo(a), meu nome é Neidielli, sou estudante de Eng. de Software.
 
   <div align="center">
     <a href="https://github.com/Neidielli">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neidielli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neidielli&layout=compact&langs_count=7&theme=dark"/>
   </div>
+<img align="right" width="350px" style="margin-top:-20px" src="https://o.remove.bg/downloads/750795cb-0a37-45bb-9e38-9b8d52076b61/gene_20230509_145835-removebg-preview.png">
 
 ## 💻 Linguagens:
 
@@ -15,6 +16,7 @@
   <img align="center" alt="Neid-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Neid-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Neid-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Neid-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
 
@@ -42,4 +44,5 @@
  <a href="https://www.linkedin.com/in/neidielli-rosado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+  ![Snake animation](https://github.com/github.com/Neidielli/Neidiell/blob/output/github-contribution-grid-snake.svg)
 
