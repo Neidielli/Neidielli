@@ -5,7 +5,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neidielli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neidielli&layout=compact&langs_count=7&theme=dark"/>
   </div>
-<img align="right" width="350px" style="margin-top:-20px" src="https://o.remove.bg/downloads/2d300aac-fbdf-497d-93b8-6a8382e85214/charat_genesis2_ico_36481736-removebg-preview.png">
+<img align="right" width="250px" style="margin-top:-20px" src="https://o.remove.bg/downloads/2d300aac-fbdf-497d-93b8-6a8382e85214/charat_genesis2_ico_36481736-removebg-preview.png">
 
 ## 💻 Linguagens:
 
