@@ -5,7 +5,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neidielli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neidielli&layout=compact&langs_count=7&theme=dark"/>
   </div>
-<img align="right" width="350px" style="margin-top:-20px" src="https://lh3.googleusercontent.com/pw/AJFCJaXrmT1cSjbd8G7oLlZNJrdJe5d7TKBKgfWAv8l1kp96HDV3eA7qEWMh8GiCaIOrHwoXNNlR3UWWS4Ha-xkmXgN3cpoqI1LrbEjll9WyG4fa7PFD99m3dExC0HrC1PbE3yk9-vYlNG-M5RFObYMBVKLBnUJZYATBRClxwImCVxF8iqiWuRPOf5kcKvBLNuk59DlbA42KXpFXlfPJ0I5XjztNHqD1qLmkFeb9yY-kAXPfSb4UcYfmRBgUSX-RalXGLoK9t-D1053R-pG1SHAYoM0GQ3I_-mRauHSj6Fcza8fqY-O3eT_EgrAZ0pEhpfz8r5S3-hMze4afTGm01QcsJ1K8LpzVRPp9SDJbzR6OuHZQfIUe41h-eNt7NJdTVU38pzK2w__hKCCs3GzdcP8ZpqlP_mUIRxDAoOMFmxvdolDRYApv6CGYESOe2NT8xQ44LcgSLqLVU5PNbfXiXs2X66G-dZ4-jRxChLarJ3Q3HbsTr0jqobOzNXqfm9beqWZOgRX0CS8MY6wJbdtcCq825ppcFYeIsc_fsBd7u1UIjzVK3PFaIRbjRhbq82NbDQui_zjhK9fEaS6XcY2_-Gl11743jB-n6tVDq7OB8WZQ_5AbqOkLupzdGDJYLU7awF2Ksp50IsD-mL1PZDKhP0HxcO6y5EE19tjUHE0Q-fZpepwr9qF9lCkA-ReQdBB8yxBHSyGn2WICD03UTSISAdAhxln8ZB4pHyJqaQSzxxLRK5FWT6xX_uj8qiJYiGOgitFdqpdJgwCWNc6RDIsmXtIcRXxQze0R6wt3ML6QRghHVRZ5KIAG-mZcgVq5m2jeKx5uhlKHfUc8DA8zh9vIDdRnK7VEjXW0pVHlvfjBE6m5JC5l8xijmOUL_fIbrnCy8JNnhHJdgHsb3CuV5FbuJpOqv7vayBCg5mJLh-E_7Fy0e1l64-P6WaP0goGegZza=w500-h500-s-no?authuser=0">
 
 ## 💻 Linguagens:
 
