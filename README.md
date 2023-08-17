@@ -16,20 +16,21 @@
   <img align="center" alt="Neid-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Neid-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Neid-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Neid-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
 
 ## 📝 Estudando atualmente:
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Neid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<!--   <img align="center" alt="Neid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   JavaScript
-  &nbsp |  &nbsp
-  <img align="center" alt="Neid-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
+  &nbsp |  &nbsp -->
+<!--   <img align="center" alt="Neid-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
   <img align="center" alt="Neid-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Neid-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   Back-End
-  &nbsp |  &nbsp
+  &nbsp |  &nbsp -->
   <img align="center" alt="Neid-Pentes" height="30" width="40" src="https://user-images.githubusercontent.com/100215137/210152295-171adff8-3909-4f39-bbad-3f9976438f22.png">
   Pentest
           
