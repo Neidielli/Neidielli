@@ -1,4 +1,4 @@
-## 👋 Seja bem-vindo(a), meu nome é Neidielli, sou estudante de Eng. de Software.
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&pause=1000&color=F7F7F7&random=false&width=440&lines=%F0%9F%91%8B+Seja+bem+vindo(a)!)](https://git.io/typing-svg)
 
   <div align="center">
     <a href="https://github.com/Neidielli">
