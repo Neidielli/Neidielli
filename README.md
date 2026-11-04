@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Header Typing Animation -->
+  <!-- Header Typing Animation (Single line smooth typing - no clipping) -->
   <a href="https://github.com/Neidielli">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&multiline=true&width=700&height=110&lines=%3E+root%40neidielli%3A~%23+whoami;%3E+Neidielli+Rosado+%7C+Cybersecurity+%26+Pentesting;%3E+AppSec+%E2%80%A2+Offensive+Security+%E2%80%A2+Backend+Dev;%3E+STATUS%3A+ACCESS_GRANTED+%5BOK%5D" alt="Terminal Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00FF66&center=true&vCenter=true&width=650&height=50&lines=%3E+root%40neidielli%3A~%23+whoami;%3E+Neidielli+Rosado;%3E+Cybersecurity+%26+Pentest+Analyst;%3E+AppSec+%E2%80%A2+Offensive+Security+%E2%80%A2+Dev;%3E+STATUS%3A+ACCESS_GRANTED+%5BOK%5D" alt="Terminal Typing Header" />
   </a>
 
-  <!-- Cyberpunk Banner / Quick Badges -->
+  <!-- Cyberpunk Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/SECURITY-OFFENSIVE%20%26%20DEFENSIVE-00FF66?style=for-the-badge&logo=shield&logoColor=black" />
     <img src="https://img.shields.io/badge/SPECIALTY-PENTEST%20%26%20APPSEC-00E5FF?style=for-the-badge&logo=kalilinux&logoColor=black" />
@@ -70,46 +70,32 @@
 
 ### 🔥 Featured Security & Code Repositories
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Neidielli/BasicTools">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neidielli&repo=BasicTools&theme=radical&border_color=00FF66" width="100%" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Neidielli/CryptographyImplementation">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neidielli&repo=CryptographyImplementation&theme=radical&border_color=00E5FF" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Neidielli/ToDoMongo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neidielli&repo=ToDoMongo&theme=radical&border_color=FF007F" width="100%" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Neidielli/ClientServer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neidielli&repo=ClientServer&theme=radical&border_color=00FF66" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+| 📦 Repository | 🛡️ Domain / Specialty | 🛠️ Tech Stack | 🚀 Action |
+| :--- | :--- | :--- | :---: |
+| [**`⚡ BasicTools`**](https://github.com/Neidielli/BasicTools) | **Network Recon & Port Enumeration**<br/><sub>Lightweight Python tools for active port scanning & DNS brute forcing</sub> | `Python` `Sockets` `DNS` `Kali` | [![View Repo](https://img.shields.io/badge/Explore-Repo-00FF66?style=flat-square&logo=github)](https://github.com/Neidielli/BasicTools) |
+| [**`🔐 CryptographyImplementation`**](https://github.com/Neidielli/CryptographyImplementation) | **Classical Ciphers & Cryptanalysis**<br/><sub>Caesar cipher cracking via frequency analysis & exhaustive search in Java</sub> | `Java` `Cryptanalysis` `Heuristics` | [![View Repo](https://img.shields.io/badge/Explore-Repo-00E5FF?style=flat-square&logo=github)](https://github.com/Neidielli/CryptographyImplementation) |
+| [**`🍃 ToDoMongo`**](https://github.com/Neidielli/ToDoMongo) | **Secure RESTful Backend API**<br/><sub>Task management API built with Node.js and MongoDB persistence layer</sub> | `Node.js` `Express` `MongoDB` | [![View Repo](https://img.shields.io/badge/Explore-Repo-FF007F?style=flat-square&logo=github)](https://github.com/Neidielli/ToDoMongo) |
+| [**`🌐 ClientServer`**](https://github.com/Neidielli/ClientServer) | **Distributed TCP Socket Architecture**<br/><sub>Client-server socket communication with message exchange protocol</sub> | `Java` `TCP/IP` `Networking` | [![View Repo](https://img.shields.io/badge/Explore-Repo-00FF66?style=flat-square&logo=github)](https://github.com/Neidielli/ClientServer) |
 
 ---
 
 ### 📊 Threat Intelligence & Activity Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Neidielli&show_icons=true&theme=radical&hide_border=false&border_color=00FF66&title_color=00FF66&icon_color=00E5FF" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neidielli&layout=donut&theme=radical&hide_border=false&border_color=00E5FF&title_color=00E5FF" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neidielli&theme=radical" width="100%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neidielli&theme=radical&hide_border=false&border=FF007F&background=141321" />
+  <img src="https://streak-stats.demolab.com/?user=Neidielli&theme=radical&hide_border=false&border=FF007F&background=141321" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neidielli&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neidielli&theme=radical" />
 </div>
 
 ---
